@@ -1,0 +1,14 @@
+{
+    "FAST@TA-1": {
+        "azimuth": 89.7,
+        "elevation": 15.1
+    },
+    "FAST@TA-2": {
+        "azimuth": 59.76,
+        "elevation": 15.1
+    },
+    "FAST@TA-3": {
+        "azimuth": 29.95,
+        "elevation": 14.9
+    }
+}
