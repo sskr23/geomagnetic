@@ -61,6 +61,8 @@ mag_vec, new_axis = gmath.calculate_field(mag=geomag.get_vector(),point=pointing
 
 One can use the module thier script, see jupyter notebook for detailed implementation.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sskr23/geomagnetic/main)
+
 ## Geomagnetic filed model
 
 One can download the model as json file on the web.
@@ -79,6 +81,7 @@ You need some quantities such as longitute, latitude, elevation, and date of the
 - Check for input parameter range, especially for angle
 - minor fix on logging
 - more detaied docstring 
+- package installation for jupyter on the web
 
 
 
