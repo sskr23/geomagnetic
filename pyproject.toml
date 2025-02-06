@@ -8,3 +8,6 @@ version = "0.1.0"
 dependencies = ["numpy", "pytest"]
 authors = [{name = "Shunsuke"}]
 description = "module for geomagnetic calculation"
+
+[tool.setuptools]
+py-modules = ["geomagnetic"]
