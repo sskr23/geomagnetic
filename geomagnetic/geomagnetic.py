@@ -1,6 +1,7 @@
 import numpy as np
-import geomagnetic.util as gutil
-
+#import geomagnetic.util as gutil
+#from geomagnetic import out_info, load_json
+from . import util as gutil
 
 class Geomagneticfield:
     """class to hold geo-magneticfield"""

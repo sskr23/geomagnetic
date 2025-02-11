@@ -1,6 +1,8 @@
-import geomagnetic.geomagnetic as gmag
-import geomagnetic.telescope as gtel
-import geomagnetic.math as gmath
+import sys
+print(sys.path)
+from . import geomagnetic as gmag
+from . import telescope as gtel
+from . import math as gmath
 import argparse
 import numpy as np
 from logging import getLogger, StreamHandler, DEBUG, INFO, Formatter

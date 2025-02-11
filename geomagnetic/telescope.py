@@ -1,5 +1,6 @@
-import geomagnetic.util as gutil
-
+#import geomagnetic.util as gutil
+#from geomagnetic import load_json
+from . import util as gutil
 
 class TelescopePointing:
 
